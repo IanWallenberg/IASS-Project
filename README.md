@@ -1,33 +1,26 @@
+# Second project - Countdown timer (Local Storage & Date Function) ⏰
+
+My second project is a timer that countdown the launch of a new website<br>
+It was made as part of the first group work at Hyper Island, as a part of our learning experience when it comes to group coding, creating branches and using Github as a collaborative space. 
+<br>
+⏲️
+<br>
+I got to work quite a bit with HTML, CSS, SVG and JavaScript especially where we learned how to use the date function and store information in local storage. But the biggest learning was understanding how a group of programmers can work together and how important it is to be clear, able to come to decisions and communicative
+<br>
+This project was made during 11/10 to 21/10 - 2021
+<br>
+📅
+<br>
+It was a very new concept to me, both understanding the terminal, git commands and JavaScript functions, but also figuring out effective ways to work in a team. We also got introduced to Firebase and spent time storing data in it as practice<br>
+The project gave me insight in how you can work with code and add more functionality, and how I can progress in a team work setting<br>
+<br>
+⌚
+<br>
+Use "sass --watch style.scss style.css" to activate scss
+<br>
+Press Go Live to check out 
+Inspect in console and local storage to further see JavaScript
+
 # IASS-Project
 About Project:
 Creating 'Coming Soon' Web Page, using Date function and Local Storage function.
-
-
-?????
-
-
-================
-GIT Instructions:
-================
-- To begin, open up a terminal and create a local directory for your project
-- Go into the newly created directory (cd command)
-- Then try below commands
-
-git init
-
-git remote add origin https://github.com/sudhamadhuripoojari/IASS-Project.git
-
-OPTIONAL (if you work on default master branch) : git checkout -b <Your local branch name>
- 
-git pull origin master
-
-========
-To push your changes after modifiying any
-========
-git add <files>
- 
-git commit
- 
-git push -u origin master
-
-=========
