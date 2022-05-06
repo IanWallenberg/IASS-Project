@@ -19,8 +19,10 @@ The project gave me insight in how you can work with code and add more functiona
 Use "sass --watch style.scss style.css" to activate scss
 <br>
 Press Go Live to check out 
-Inspect in console and local storage to further see JavaScript
+Inspect in console and local storage to further see usage of JavaScript functionality
 
 # IASS-Project
 About Project:
 Creating 'Coming Soon' Web Page, using Date function and Local Storage function.
+
+![ComingSoon](https://user-images.githubusercontent.com/90833604/167089791-62cb7a69-322b-40d0-b0b3-0502600762e2.png)
