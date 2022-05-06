@@ -16,8 +16,6 @@ The project gave me insight in how you can work with code and add more functiona
 <br>
 ⌚
 <br>
-Use "sass --watch style.scss style.css" to activate scss
-<br>
 Press Go Live to check out 
 Inspect in console and local storage to further see usage of JavaScript functionality
 
