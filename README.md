@@ -1,5 +1,7 @@
 # Second project - Countdown timer (Local Storage & Date Function) ⏰
 
+Link to project - https://countdown-timer-project-iass.netlify.app
+
 My second project is a timer that countdown the launch of a new website<br>
 It was made as part of the first group work at Hyper Island, as a part of our learning experience when it comes to group coding, creating branches and using Github as a collaborative space. 
 <br>
